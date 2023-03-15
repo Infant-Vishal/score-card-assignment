@@ -1,0 +1,26 @@
+.table-name {
+  color: #2a4bf5;
+  font-family: "Roboto";
+  font-size: 25px;
+  font-weight: bold;
+  margin: 16px;
+}
+
+.alert-popup-button:hover {
+  color: #097fe6;
+}
+.edit-icon:hover {
+  color: #097fe6;
+}
+.delete-icon:hover {
+  color: #f50a21;
+}
+.modal-text {
+  font-weight: 600;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
